@@ -1,0 +1,39 @@
+<RCC>
+	<qresource prefix="/">
+		<file>Mac/control-bg-panel-left.png</file>
+		<file>Mac/control-bg-panel-right.png</file>
+		<file>Mac/control-bg-panel.png</file>
+		<file>Mac/control-bg-seekbar-buffering.png</file>
+		<file>Mac/control-bg-seekbar-left.png</file>
+		<file>Mac/control-bg-seekbar-progress.png</file>
+		<file>Mac/control-bg-seekbar-right.png</file>
+		<file>Mac/control-bg-seekbar.png</file>
+		<file>Mac/control-bg-volumebar-progress.png</file>
+		<file>Mac/control-bg-volumebar.png</file>
+		<file>Mac/control-button-equalizer.png</file>
+		<file>Mac/control-button-fastforward.png</file>
+		<file>Mac/control-button-fullscreen.png</file>
+		<file>Mac/control-button-max-volume.png</file>
+		<file>Mac/control-button-min-volume.png</file>
+		<file>Mac/control-button-next.png</file>
+		<file>Mac/control-button-play-pause.png</file>
+		<file>Mac/control-button-playlist.png</file>
+		<file>Mac/control-button-previous.png</file>
+		<file>Mac/control-button-record.png</file>
+		<file>Mac/control-button-repeat.png</file>
+		<file>Mac/control-button-rewind.png</file>
+		<file>Mac/control-button-seek-knob.png</file>
+		<file>Mac/control-button-shuffle.png</file>
+		<file>Mac/control-button-stop.png</file>
+		<file>Mac/control-button-volume-knob.png</file>
+		<file>Mac/download_subs.png</file>
+		<file>Mac/dvd.png</file>
+		<file>Mac/info.png</file>
+		<file>Mac/open.png</file>
+		<file>Mac/open_favorites.png</file>
+		<file>Mac/open_folder.png</file>
+		<file>Mac/prefs.png</file>
+		<file>Mac/screenshot.png</file>
+		<file>Mac/url.png</file>
+	</qresource>
+</RCC>
